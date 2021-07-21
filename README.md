@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working at SweetTree Connect 🌳 
+- 🌱 I’m currently learning everything
+
 <!--
 **JEdwards216/JEdwards216** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
