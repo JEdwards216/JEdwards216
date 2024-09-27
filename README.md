@@ -8,7 +8,7 @@
 ![](https://img.shields.io/badge/OS-MacOSX-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=6f00ff)![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=fff200)![](https://img.shields.io/badge/Shell-Fish-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=0802bd)
 
 
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="JEdwards" data-color="#FFDD00" data-emoji="🍺" data-font="Cookie" data-text="Buy me a beer" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
+<a href="https://www.buymeacoffee.com/JEdwards" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 <!--
 **JEdwards216/JEdwards216** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
